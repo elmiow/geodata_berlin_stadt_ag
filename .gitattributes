@@ -7,3 +7,5 @@
 *.tiff filter=lfs diff=lfs merge=lfs -text
 *.gpkg filter=lfs diff=lfs merge=lfs -text
 input_data/spatial_neukoelln/*.geojson filter=lfs diff=lfs merge=lfs -text
+# Exclude raw folder from LFS - store directly in Git
+input_data/spatial_neukoelln_raw/*.geojson -filter -diff -merge text
