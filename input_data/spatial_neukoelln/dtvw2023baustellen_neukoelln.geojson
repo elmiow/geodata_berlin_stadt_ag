@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "dtvw2023baustellen_neukoelln",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1606, "strasse": "Karl-Marx-Straße (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.43261, 52.48255004 ] } },
+{ "type": "Feature", "properties": { "id": 1628, "strasse": "Sonnenallee (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.429488, 52.48647004 ] } },
+{ "type": "Feature", "properties": { "id": 1634, "strasse": "Buschkrugallee (Britz)", "ortsteil": "Britz" }, "geometry": { "type": "Point", "coordinates": [ 13.445174, 52.46249904 ] } },
+{ "type": "Feature", "properties": { "id": 1637, "strasse": "Bergiusstraße (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.457355, 52.46479704 ] } },
+{ "type": "Feature", "properties": { "id": 1641, "strasse": "Neudecker Weg (Rudow)", "ortsteil": "Rudow" }, "geometry": { "type": "Point", "coordinates": [ 13.5064, 52.41861204 ] } },
+{ "type": "Feature", "properties": { "id": 1649, "strasse": "Flughafenstraße (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.422402, 52.48047404 ] } },
+{ "type": "Feature", "properties": { "id": 1656, "strasse": "Bergiusstraße (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.456424, 52.46547504 ] } },
+{ "type": "Feature", "properties": { "id": 1662, "strasse": "Silbersteinstraße (Neukölln)", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.441794, 52.46763404 ] } },
+{ "type": "Feature", "properties": { "id": 1709, "strasse": "\tBuckower Damm", "ortsteil": "Buckow" }, "geometry": { "type": "Point", "coordinates": [ 13.438226, 52.41802204 ] } },
+{ "type": "Feature", "properties": { "id": 1718, "strasse": "\tRoseggerstraße", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.445716, 52.47953104 ] } },
+{ "type": "Feature", "properties": { "id": 1721, "strasse": "\tFlughafenstraße", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.432941, 52.48173204 ] } },
+{ "type": "Feature", "properties": { "id": 1727, "strasse": "\tNiemetzstraße", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.452407, 52.47083104 ] } },
+{ "type": "Feature", "properties": { "id": 1741, "strasse": "\tMainzer Straße", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.428739, 52.47822304 ] } },
+{ "type": "Feature", "properties": { "id": 1758, "strasse": "Gradestraße", "ortsteil": "Britz" }, "geometry": { "type": "Point", "coordinates": [ 13.4331, 52.45280004 ] } },
+{ "type": "Feature", "properties": { "id": 1789, "strasse": "Karl-Marx-Straße", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.435272, 52.48088004 ] } },
+{ "type": "Feature", "properties": { "id": 1791, "strasse": "Neuköllnische Allee", "ortsteil": "Neukölln" }, "geometry": { "type": "Point", "coordinates": [ 13.456055, 52.46913504 ] } },
+{ "type": "Feature", "properties": { "id": 1799, "strasse": "Britzer Damm (Britz)", "ortsteil": "Britz" }, "geometry": { "type": "Point", "coordinates": [ 13.434661, 52.44681404 ] } }
+]
+}

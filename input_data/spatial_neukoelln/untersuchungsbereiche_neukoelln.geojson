@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "untersuchungsbereiche_neukoelln",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "untersuchungsbereiche.9", "gisid": 9, "beschreibu": "Tempelhofer Feld nachts geschlossen" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.41593398, 52.4760744 ], [ 13.4188378, 52.47701006 ], [ 13.4194027, 52.47507274 ], [ 13.41556832, 52.4749242 ], [ 13.414533617039162, 52.474878614964695 ], [ 13.414228756868445, 52.475995514709489 ], [ 13.41593398, 52.4760744 ] ] ] } }
+]
+}
